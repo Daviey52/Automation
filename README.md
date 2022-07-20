@@ -40,3 +40,20 @@ Compare your collected data against existing-contacts.txt and only include info 
 Handle phone numbers with extensions. E.g. (123) 456-789x012
 User Acceptance Tests
 The ‘phone_numbers.txt’ and ‘emails.txt’ files will be verified by an automated system. So make sure to match the naming/formatting requirements exactly.
+
+### Automation ideas
+
+<https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s>
+
+### Needs more review
+
+<https://pythonhosted.org/watchdog/>
+<https://docs.python.org/3/library/shutil.html>
+
+### Faker website for generating fake data
+
+<https://zetcode.com/python/faker/>
+
+### Regex builder
+
+<https://regex101.com/>
