@@ -8,7 +8,7 @@ This colleague’s last days (and weeks) on the job were a mixed bag in terms of
 
 Looking through the documents left behind there is some important contact info in the form of email addresses and phone numbers.
 
-Unfortunately it’s mixed in with a bunch of useless notes.
+Unfortunately it’s mixed in with alot of of useless notes.
 
 Your job is to find the needles in the haystack.
 
